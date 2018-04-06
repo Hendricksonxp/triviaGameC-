@@ -1,0 +1,8 @@
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/bin/Debug/GameRunner.exe
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/bin/Debug/GameRunner.pdb
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/bin/Debug/TriviaNoTests.dll
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/bin/Debug/TriviaNoTests.pdb
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/obj/Debug/GameRunner.csprojResolveAssemblyReference.cache
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/obj/Debug/GameRunner.csproj.CoreCompileInputs.cache
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/obj/Debug/GameRunner.exe
+/Users/chetHendrickson/RiderProjects/trivia/GameRunner/obj/Debug/GameRunner.pdb

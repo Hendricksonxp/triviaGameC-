@@ -1,0 +1,6 @@
+/Users/chetHendrickson/RiderProjects/trivia/TriviaNoTests/bin/Debug/TriviaNoTests.dll
+/Users/chetHendrickson/RiderProjects/trivia/TriviaNoTests/bin/Debug/TriviaNoTests.pdb
+/Users/chetHendrickson/RiderProjects/trivia/TriviaNoTests/obj/Debug/TriviaNoTests.csprojResolveAssemblyReference.cache
+/Users/chetHendrickson/RiderProjects/trivia/TriviaNoTests/obj/Debug/TriviaNoTests.csproj.CoreCompileInputs.cache
+/Users/chetHendrickson/RiderProjects/trivia/TriviaNoTests/obj/Debug/TriviaNoTests.dll
+/Users/chetHendrickson/RiderProjects/trivia/TriviaNoTests/obj/Debug/TriviaNoTests.pdb
